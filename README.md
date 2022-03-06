@@ -3,6 +3,7 @@
 - 🌱 I'm currently a third year student at the University of Texas at Austin
 - 🔭 I'm double majoring in computer engineering and mathematics, and minoring in computer science
 - ⚡ Fun fact: I can solve a 3 by 3 rubik's cube in 30 seconds
+- 😄 Incoming IT intern at Texas Instrument!!! So excited!!!
 <!--
 **danielyang2000/danielyang2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
