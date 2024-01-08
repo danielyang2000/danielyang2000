@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I'm currently a fourth year student at the University of Texas at Austin
-- 🔭 I'm double majoring in computer engineering and mathematics, and minoring in computer science
+- 🔭 I graduated from UT Austin with a double major in computer engineering and mathematics and a certificate in computer science
 - ⚡ Fun fact: I can solve a 3 by 3 rubik's cube in 30 seconds
-- 😄 Just finished Application Developer intern at Texas Instruments!!! So much fun !!!
+- 😄 I finished Application Developer internship at Texas Instruments in 2022!!! So much fun !!!
 <!--
 **danielyang2000/danielyang2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
