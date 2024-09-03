@@ -2,7 +2,8 @@
 
 - 🔭 I graduated from UT Austin with a double major in computer engineering and mathematics and a certificate in computer science
 - 🌱 I am currently doing Master in EECS at UC Berkeley
-  Fun facts:
+
+Fun facts:
 - 😄 I can solve a 3 by 3 rubik's cube in 30 seconds
 - ⚡ I recently started competing in tennis at USTA 4.5 level
 <!--
