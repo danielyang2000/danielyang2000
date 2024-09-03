@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I graduated from UT Austin with a double major in computer engineering and mathematics and a certificate in computer science
+- 🌱 I am currently doing Master in EECS at UC Berkeley
 - ⚡ Fun fact: I can solve a 3 by 3 rubik's cube in 30 seconds
-- 😄 I finished Application Developer internship at Texas Instruments in 2022!!! So much fun !!!
+- 😄 
 <!--
 **danielyang2000/danielyang2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
